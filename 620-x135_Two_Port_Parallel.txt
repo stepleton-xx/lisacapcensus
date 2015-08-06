@@ -1,0 +1,21 @@
+Electrolytic capacitor census for Apple Lisa systems
+Board: 620-x135 TWO PORT PARALLEL
+Description: Parallel interface card
+
+Revision A:
+
+C16:
+  10uf 16v
+  Axial 7/16" x 5mm, 0.8" pitch
+  Temp: -40~+85C
+  Other visible markings: "8302"
+
+
+
+Revision A (another specimen):
+
+C16:
+  10uf 16v
+  Axial 7/16" x 5mm, 0.8" pitch
+  Temp: -40~+85C
+  Other visible markings: "8302"

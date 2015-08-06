@@ -1,0 +1,11 @@
+Electrolytic capacitor census for Apple Lisa systems
+Board: 620-0108 MOTHERBOARD
+Description: Lisa 1, Lisa 2 motherboard
+
+Revision unmarked:
+
+C11:
+  1000uf 6.3v
+  Axial, 13/16" x 9mm, 1.25" pitch
+  Temp: -40~+85C
+  Other visible markings: "S"

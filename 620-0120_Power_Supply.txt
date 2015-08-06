@@ -1,0 +1,148 @@
+Electrolytic capacitor census for Apple Lisa systems
+Board: 620-0120 POWER SUPPLY
+Description: 1.2 amp power supply
+
+Revision J:
+
+C1: (NOT ELECTROLYTIC but apparently prone to failure anyway)
+  0.22uf 250v
+  Box, 23mm (long) x 10mm (wide) x 17mm (tall), 20mm pitch
+     Additional holes could accommodate these pitches: 24mm 26mm 30mm
+  Temp: unmarked
+  Other visible markings: 0,22uF @ X
+                          RIFA
+                          GPC 40/085/56   CR1
+                          PME 271M622
+                          250V ~ MP
+                          fo = 3,0MHz
+                          (various symbols)
+                          565-1-A LD2
+
+C2: (NOT ELECTROLYTIC but apparently prone to failure anyway)
+  0.1uf 250v
+  Box, 23mm (long) x 7mm (wide) x 14mm (tall), 20mm pitch
+     Additional holes could accommodate these pitches: 15mm
+  Temp: unmarked
+  Other visible markings: 0,1uF @ X
+                          RIFA
+                          GPC
+                          40/085/56   CP6
+                          PME 271M610
+                          250V ~ MP
+                          fo = 4,9MHz
+                          (various symbols)
+                          565-1-A LD2
+
+C3: (NOT ELECTROLYTIC but apparently prone to failure anyway)
+  2.2uf 250v
+  Box, 13mm (long) x 3mm (wide) x 7mm (tall), 10mm pitch
+     Additional holes could accommodate these pitches: 13mm
+  Temp: unmarked
+  Other visible markings: 2200pF @ Y
+                          RIFA
+                          GPC
+                          40/085/56   CP4
+                          PME 270Y422
+                          250V ~ MP
+                          fo = 3,5 MHz   (35? Hard to read)
+                          (various symbols)
+                          565-??? LD2
+
+C4: (NOT ELECTROLYTIC but apparently prone to failure anyway)
+  2.2uf 250v
+  Box, 13mm (long) x 3mm (wide) x 7mm (tall), 10mm pitch
+     Additional holes could accommodate these pitches: 13mm
+  Temp: unmarked
+  Other visible markings: 2200pF @ Y
+                          RIFA
+                          GPC
+                          40/085/56   CPD
+                          PME 270Y422
+                          250V ~ MP
+                          fo = 3,5 MHz   (35? Hard to read)
+                          (various symbols)
+                          565-??? LD2
+
+C7:
+  1000uf 25v
+  Radial, 5/8" (diam) x 35mm (height), 7/32" or 5mm pitch
+  Temp: 85C
+  Other visible markings: "NIPPON CHEMI-CON" "SL" "CE040W"
+
+C9:
+  220uf 50v
+  Radial, 0.5" (diam) x 1 5/8" (height), 7/32" or 5mm pitch
+  Temp: -55~+105C
+  Other visible markings: "NIPPON CHEMI-CON" "CERX" "20 (2)"
+
+C10:
+  220uf 50v
+  Radial, 0.5" (diam) x 1 5/8" (height), 7/32" or 5mm pitch
+  Temp: -55~+105C
+  Other visible markings: "NIPPON CHEMI-CON" "CERX" "20 (2)"
+
+C12? C13? unknown (just under "POWER SUPPLY" legend):
+  390uf 200v
+  Radial, 1" (diam) x 1 7/8" (height), FOUR PINS (complicated, not measured)
+  Temp: 85C
+  Other visible markings: "NEGATIVE" "BLACK" "NIPPON CHEMI-CON" "NM" "HR" "F(M)"
+
+C12? C13? unknown (adjacent to above):
+  390uf 200v
+  Radial, 1" (diam) x 1 7/8" (height), FOUR PINS (complicated, not measured)
+  Temp: 85C
+  Other visible markings: "NEGATIVE" "BLACK" "NIPPON CHEMI-CON" "NM" "HR" "F(M)"
+
+C14:
+  2200uf 16v
+  Radial, 11/16" (diam) x 1 3/8" (height), 9mm pitch (maybe)
+  Temp: -55~+105C
+  Other visible markings: "ACE" "HF" "JAPAN"
+
+C15:
+  2200uf 16v
+  Radial, 11/16" (diam) x 1 3/8" (height), 9mm pitch (maybe)
+  Temp: -55~+105C
+  Other visible markings: "ACE" "HF" "JAPAN"
+
+C19:
+  2200uf 16v
+  Radial, 11/16" (diam) x 1 3/8" (height), 9mm pitch (maybe)
+  Temp: -55~+105C
+  Other visible markings: "ACE" "HF" "JAPAN"
+
+C20:
+  2200uf 16v
+  Radial, 11/16" (diam) x 1 3/8" (height), 9mm pitch (maybe)
+  Temp: -55~+105C
+  Other visible markings: "ACE" "HF" "JAPAN"
+
+C21:
+  2200uf 16v
+  Radial, 11/16" (diam) x 1 3/8" (height), 9mm pitch (maybe)
+  Temp: -55~+105C
+  Other visible markings: "ACE" "HF" "JAPAN"
+
+C24:
+  33uf? (hard to see) 16v
+  Radial, 0.5" (diam) x 12cm (height), 4mm pitch
+  Temp: 85C
+  Other visible markings: (nippon chemi-con logo)
+
+C27:
+  330uf 16v
+  Radial, 0.5" (diam) x 7/8" (height), 5mm pitch
+  Temp: -55~+105C
+  Other visible markings: "NIPPON CHEMI-CON" "CERX" "29 (2)"
+
+C28:
+  330uf 16v
+  Radial, 0.5" (diam) x 7/8" (height), 5mm pitch
+  Temp: -55~+105C
+  Other visible markings: "NIPPON CHEMI-CON" "CERX" "29 (2)"
+
+C31:
+  470uf 6.3v
+  Axial, 0.5" x 0.25", 5mm pitch
+  Temp: unmarked?
+  Other visible markings: "NIPPON CHEMI-CON" "CE04W" "SL"

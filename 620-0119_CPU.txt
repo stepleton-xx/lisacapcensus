@@ -1,0 +1,45 @@
+Electrolytic capacitor census for Apple Lisa systems
+Board: 620-0119 CPU
+Description: Lisa 1, Lisa 2, Lisa 2/10 CPU board
+
+Revision H? B? R? (illegible):
+
+C8:
+  2.2uf 50v
+  Axial, 0.5" x 5mm, 0.8" pitch
+  Temp: (not visible)
+  Other visible markings: "nichicon" "SE (M)"
+
+C40:
+  10uf 16v
+  Axial, 7/16" x 5mm, 0.8" pitch
+  Temp: (not visible)
+  Other visible markings: "ACE" "S" "8243" (maybe)
+
+C20:
+  10uf 16v
+  Axial, 7/16" x 5mm, 0.8" pitch
+  Temp: (not visible)
+  Other visible markings: "ACE" "S" "8248"
+
+
+
+Revision N:
+
+C8:
+  2.2uf 50v
+  Axial, 0.5" x 5mm, 0.8" pitch
+  Temp: 99C? (hard to read)
+  Other visible markings:
+
+C40:
+  10uf 16v (Guessed---NOT VISIBLE)
+  Axial, 7/16" x 5mm, 0.8" pitch
+  Temp: 85C
+  Other visible markings: "36" "S(6)" "SL" (maybe)
+
+C20:
+  10uf 16v (Guessed---NOT VISIBLE)
+  Axial, 7/16" x 5mm, 0.8" pitch
+  Temp: 85C
+  Other visible markings: "36" "S(6)" "SL" (maybe)

@@ -1,0 +1,77 @@
+Electrolytic capacitor census for Apple Lisa systems
+Board: 620-0117 SYSTEM I/O
+Description: Lisa 1, Lisa 2 I/O board
+
+Revision 8? B? R? (illegible):
+
+C3:
+  10uf 50v (Guessed---NOT VISIBLE)
+  Axial, 0.5" x 0.25", 0.7" pitch
+  Temp: 85C
+  Other visible markings: "nichicon" "N8230"
+
+C9:
+  10uf 50v
+  Axial, 0.5" x 0.25", 0.7" pitch
+  Temp: 85C
+  Other visible markings: "nichicon"
+
+C20:
+  10uf 50v
+  Axial, 0.5" x 0.25", 0.7" pitch
+  Temp: 85C
+  Other visible markings: "nichicon" "N8230"
+
+C21:
+  10uf 50v
+  Axial, 0.5" x 0.25", 0.7" pitch
+  Temp: 85C
+  Other visible markings:
+
+C22:
+  10uf 50v
+  Axial, 0.5" x 0.25", 0.7" pitch
+  Temp: 85C
+  Other visible markings:
+
+C27
+  10uf 50v
+  Axial, 0.5" x 0.25", 0.7" pitch
+  Temp: 85C (Guessed---NOT VISIBLE)
+  Other visible markings: "nichicon" "N8230"
+
+C28
+  10uf 50v
+  Axial, 0.5" x 0.25", 0.7" pitch
+  Temp: 85C (Guessed---NOT VISIBLE)
+  Other visible markings: "nichicon" "N8230"
+
+C33
+  47uf 10v
+  Axial, 0.5" x 0.25", 0.7" pitch
+  Temp: 85C (Guessed---NOT VISIBLE)
+  Other visible markings: "nichicon" "N8408"
+
+C46
+  10uf 50v (Guessed---NOT VISIBLE)
+  Axial, 0.5" x 0.25", 0.7" pitch
+  Temp: 85C
+  Other visible markings: "nichicon" "N8230"
+
+C47
+  10uf 50v (Guessed---NOT VISIBLE)
+  Axial, 0.5" x 0.25", 0.7" pitch
+  Temp: 85C
+  Other visible markings: "nichicon" "N8230"
+
+C50
+  10uf 50v (Guessed---NOT VISIBLE)
+  Axial, 0.5" x 0.25", 0.7" pitch
+  Temp: 85C
+  Other visible markings: "N8230"
+
+C54
+  10uf 50v
+  Axial, 0.5" x 0.25", 0.7" pitch
+  Temp: 85C
+  Other visible markings:

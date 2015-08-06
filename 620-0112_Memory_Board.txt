@@ -1,0 +1,161 @@
+Electrolytic capacitor census for Apple Lisa systems
+Board: 620-0112 MEMORY BOARD
+Description: Lisa 1, Lisa 2, Lisa 2/10 512 KB memory board
+
+Revision C:
+
+C17/C18: (Single cap spanning a space for two ceramic decoupling caps)
+  10uf 16v (Guessed---NOT VISIBLE)
+  Axial, 7/16" x 5mm, 0.8" pitch
+  Temp: -40~+85C
+  Other visible markings: "ACE" "S" "8302"
+
+C28/C29: (Single cap spanning a space for two ceramic decoupling caps)
+  10uf 16v
+  Axial, 7/16" x 5mm, 0.8" pitch
+  Temp: -40~+85C
+  Other visible markings: "ACE" "S" "8244"
+
+C60/C61: (Single cap spanning a space for two ceramic decoupling caps)
+  10uf 16v (Guessed---NOT VISIBLE)
+  Axial, 7/16" x 5mm, 0.8" pitch
+  Temp: -40~+85C
+  Other visible markings: "S" "8302"
+
+C72/C73: (Single cap spanning a space for two ceramic decoupling caps)
+  10uf 16v
+  Axial, 7/16" x 5mm, 0.8" pitch
+  Temp: -40~+85C
+  Other visible markings: "ACE" "S" "8302"
+
+C96:
+  10uf 16v
+  Axial, 7/16" x 5mm, 0.8" pitch
+  Temp: -40~+85C
+  Other visible markings: "8302"
+
+C97:
+  10uf 16v
+  Axial, 7/16" x 5mm, 0.8" pitch
+  Temp: -40~+85C
+  Other visible markings: "S" "8244"
+
+
+
+Revision C (another specimen):
+
+C17/C18: (Single cap spanning a space for two ceramic decoupling caps)
+  10uf 16v
+  Axial, 7/16" x 5mm, 0.8" pitch
+  Temp: (not visible)
+  Other visible markings: "ACE" "8314"
+
+C28/C29: (Single cap spanning a space for two ceramic decoupling caps)
+  10uf 16v
+  Axial, 7/16" x 5mm, 0.8" pitch
+  Temp: (not visible)
+  Other visible markings: "ACE" "S"
+
+C60/C61: (Single cap spanning a space for two ceramic decoupling caps)
+  10uf 16v
+  Axial, 7/16" x 5mm, 0.8" pitch
+  Temp: (not visible)
+  Other visible markings: "ACE" "8248"
+
+C72/C73: (Single cap spanning a space for two ceramic decoupling caps)
+  10uf 16v
+  Axial, 7/16" x 5mm, 0.8" pitch
+  Temp: (not visible)
+  Other visible markings: "ACE" "8248"
+
+C96:
+  10uf 16v
+  Axial, 7/16" x 5mm, 0.8" pitch
+  Temp: (not visible)
+  Other visible markings: "ACE" "S" "8244"
+
+C97:
+  10uf 16v
+  Axial, 7/16" x 5mm, 0.8" pitch
+  Temp: -40~+85C
+  Other visible markings: "ACE" "8302"
+
+
+
+Revision D:
+
+C17/C18: (Single cap spanning a space for two ceramic decoupling caps)
+  10uf 16v
+  Axial, 0.5" x 5mm, 0.8" pitch
+  Temp: (not visible)
+  Other visible markings: "nichicon" "N8438"
+
+C28/C29: (Single cap spanning a space for two ceramic decoupling caps)
+  10uf 16v (Guessed---NOT VISIBLE)
+  Axial, 0.5" x 5mm, 0.8" pitch
+  Temp: 85C
+  Other visible markings: "N8438"
+
+C60/C61: (Single cap spanning a space for two ceramic decoupling caps)
+  10uf 16v (Guessed---NOT VISIBLE)
+  Axial, 0.5" x 5mm, 0.8" pitch
+  Temp: 85C
+  Other visible markings: "nichicon" "N8438"
+
+C72/C73: (Single cap spanning a space for two ceramic decoupling caps)
+  10uf 16v
+  Axial, 0.5" x 5mm, 0.8" pitch
+  Temp: (not visible)
+  Other visible markings: "nichicon"
+
+C96:
+  10uf 16v
+  Axial, 0.5" x 5mm, 0.8" pitch
+  Temp: 85C
+  Other visible markings:
+
+C97:
+  10uf 16v
+  Axial, 0.5" x 5mm, 0.8" pitch
+  Temp: (not visible)
+  Other visible markings: "nichicon" "N8442"
+
+
+
+Revision D (another specimen):
+
+C17/C18: (Single cap spanning a space for two ceramic decoupling caps)
+  10uf 16v
+  Axial, 0.5" x 5mm, 0.8" pitch
+  Temp: 85C
+  Other visible markings: "N8438"
+
+C28/C29: (Single cap spanning a space for two ceramic decoupling caps)
+  10uf 16v (Guessed---NOT VISIBLE)
+  Axial, 0.5" x 5mm, 0.8" pitch
+  Temp: 85C
+  Other visible markings: "nichicon" "N8438"
+
+C60/C61: (Single cap spanning a space for two ceramic decoupling caps)
+  10uf 16v
+  Axial, 0.5" x 5mm, 0.8" pitch
+  Temp: 85C
+  Other visible markings: "N8438"
+
+C72/C73: (Single cap spanning a space for two ceramic decoupling caps)
+  10uf 16v
+  Axial, 0.5" x 5mm, 0.8" pitch
+  Temp: 85C
+  Other visible markings: "nichicon"
+
+C96:
+  10uf 16v
+  Axial, 0.5" x 5mm, 0.8" pitch
+  Temp: 85C
+  Other visible markings: "N8438"
+
+C97:
+  10uf 16v
+  Axial, 0.5" x 5mm, 0.8" pitch
+  Temp: 85C
+  Other visible markings: "N8438"

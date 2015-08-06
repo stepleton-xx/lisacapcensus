@@ -1,0 +1,17 @@
+Electrolytic capacitor census for Apple Lisa systems
+Board: 620-0108 MOTHERBOARD
+Description: Lisa 1, Lisa 2 motherboard
+
+Revision E:
+
+C10:
+  100uf 16v
+  Radial, 3/8" (diam) x 7/16" (height), UNKNOWN PITCH
+  Temp: 85C
+  Other visible markings: "NIPPON CHEMICON" "SL" "CE04W"
+
+C11:
+  1000uf 6.3v
+  Axial, 13/16" x 9mm, 1.25" pitch
+  Temp: -40~+85C
+  Other visible markings: "S"
